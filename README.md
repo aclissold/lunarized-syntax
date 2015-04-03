@@ -24,7 +24,12 @@ Installation
 * Go to the Themes page
 * Search for Lunarized and install
 
-### To get the Vim colorsheme:
+### To get the Xcode colorscheme:
+
+    mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+    cp Lunarized.dvtcolortheme !:2
+
+### To get the Vim colorscheme:
 
 With [pathogen]:
 
