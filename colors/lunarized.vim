@@ -30,7 +30,7 @@ hi ErrorMsg guifg=#dc322f guibg=NONE guisp=NONE gui=NONE ctermfg=160 ctermbg=NON
 hi Ignore guifg=#000000 guibg=NONE guisp=NONE gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
 hi Debug guifg=#dc312f guibg=NONE guisp=NONE gui=NONE ctermfg=160 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=#c7c7c7 guibg=#6e6e6e guisp=#6e6e6e gui=NONE ctermfg=251 ctermbg=242 cterm=NONE
-hi Identifier guifg=#268bd2 guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE cterm=bold
+hi Identifier guifg=#268bd2 guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE cterm=none
 hi SpecialChar guifg=#dc322f guibg=NONE guisp=NONE gui=NONE ctermfg=160 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#719e07 guibg=NONE guisp=NONE gui=NONE ctermfg=106 ctermbg=NONE cterm=NONE
 hi StorageClass guifg=#b58900 guibg=NONE guisp=NONE gui=NONE ctermfg=136 ctermbg=NONE cterm=NONE
@@ -65,7 +65,7 @@ hi DiffDelete guifg=#dc312f guibg=#1a1a1a guisp=#1a1a1a gui=bold ctermfg=160 cte
 hi ModeMsg guifg=#268bd2 guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE cterm=bold
 hi CursorColumn guifg=#e2e4e5 guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
 hi Define guifg=#cb4b16 guibg=NONE guisp=NONE gui=NONE ctermfg=166 ctermbg=NONE cterm=NONE
-hi Function guifg=#268bd2 guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE cterm=bold
+hi Function guifg=#268bd2 guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE cterm=none
 hi FoldColumn guifg=#6e6e6e guibg=#1a1a1a guisp=#1a1a1a gui=NONE ctermfg=242 ctermbg=234 cterm=NONE
 hi PreProc guifg=#cb4b16 guibg=NONE guisp=NONE gui=NONE ctermfg=166 ctermbg=NONE cterm=NONE
 hi EnumerationName guifg=#e2e4e5 guibg=NONE guisp=NONE gui=NONE ctermfg=254 ctermbg=NONE cterm=NONE
